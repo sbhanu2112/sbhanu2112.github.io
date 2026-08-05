@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.db8a956a.css",
-    "main.js": "/static/js/main.8f664e78.js",
+    "main.js": "/static/js/main.24155549.js",
     "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
     "static/js/64.700c7581.chunk.js": "/static/js/64.700c7581.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
     "static/js/769.af6788b5.chunk.js": "/static/js/769.af6788b5.chunk.js",
-    "static/media/peclogo.png": "/static/media/peclogo.fb5408fa3b89bb59dedf.png",
     "static/media/my_image.jpg": "/static/media/my_image.f3a1eb6f0310d6d36a8a.jpg",
     "static/media/operational_resilience.png": "/static/media/operational_resilience.e143eac3ec29aea77407.png",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/research_paper.png": "/static/media/research_paper.d2c3b9efe742d5f5ce59.png",
+    "static/media/peclogo.png": "/static/media/peclogo.8bfae50d8a7112ee293a.png",
     "static/media/northeasternlogo.png": "/static/media/northeasternlogo.dd5a5bcd846702195ff0.png",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
@@ -24,7 +24,7 @@
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.db8a956a.css.map": "/static/css/main.db8a956a.css.map",
-    "main.8f664e78.js.map": "/static/js/main.8f664e78.js.map",
+    "main.24155549.js.map": "/static/js/main.24155549.js.map",
     "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
     "64.700c7581.chunk.js.map": "/static/js/64.700c7581.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
@@ -32,6 +32,6 @@
   },
   "entrypoints": [
     "static/css/main.db8a956a.css",
-    "static/js/main.8f664e78.js"
+    "static/js/main.24155549.js"
   ]
 }
